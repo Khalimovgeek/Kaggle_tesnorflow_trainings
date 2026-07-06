@@ -38,7 +38,7 @@ All source code, experimental pipelines, and training workflows are preserved in
 * **Objective:** Deconstruct sentences to extract and tag real-world entities like names, dates, and organizations.
 * **Tech Stack:** TensorFlow, Keras, NumPy.
 * **Key Implementation:** Implemented a sequence-to-sequence **BiLSTM + CRF (Bidirectional LSTM with Conditional Random Fields)** architecture to effectively map contextual token transitions.
-🚧 Note: The NER training pipeline notebook is currently being refactored for performance optimization and clean code standards. The updated version will be pushed shortly.
+
 
 
 #### 6. Question Classifier (Intent Tagging)
